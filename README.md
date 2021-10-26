@@ -4,7 +4,7 @@ This project aims to develop a program to detect objects with datasets(a random 
 ## How to use
 1. Clone this project
 2. Put your datasets and test images into folder Images and Queires respectivily
-3. Run the main program `Object_Detection.ipynb` with ![jupyterlab](https://jupyter.org/)
+3. Run the main program `Object_Detection.ipynb` with [jupyterlab](https://jupyter.org/)
 
 > Dataset Image Format: 0001.jpg, 0002.jpg, 0003.jpg, ... , 9999.jpg
 
