@@ -24,13 +24,13 @@ This project aims to develop a program to detect objects with datasets(a random 
 └── Object_Detection.ipynb  # Main Program
 ```
 ## Result
+### Summary
 |Item|SIFT|	SSIM|
 |---|---|---|
 |Mean average precision|	0.332950	|0.011360|
 |Time|	2.5 hr	|20 mins |
 
-
-### Comparison between two methods
+### Details Comparison
 ![GitHub Logo](/sift_ssim_result.png)
 
 ## Short Review
