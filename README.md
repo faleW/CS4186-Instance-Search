@@ -1,4 +1,5 @@
-# Introduction
+# SIFT based Object Detection
+## Introduction
 This project aims to develop a program to detect objects with datasets(a random set of images). The first method is SIFT Feature Matching. SIFT is a feature detection algorithm to detect the image features. This project used the feature matching method to find out the similarity. The second method is SSIM who consider image luminance, contrast and structure to evaluate similarity. 
 
 ## How to use
